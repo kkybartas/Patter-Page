@@ -1,0 +1,31 @@
+nav.navbar {
+    background-color: #353a40;
+}
+
+#mozaika {
+    padding: 100px;
+}
+
+.section {
+    background-image: image("header.jgp");
+    
+}
+
+.btn-success {
+    background-color: #3ca648;
+}
+
+/* #pattern img {
+    width: 40vh;
+    object-fit: contain;
+    } */
+
+div.col {
+    border: 1px solid #353a404d;
+    border-radius: 5px;
+}
+
+#pattern {
+    width: 60vh;
+}
+    
